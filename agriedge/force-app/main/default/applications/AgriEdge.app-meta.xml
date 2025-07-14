@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>AgriEdge</label>
+    <description>Order management solution for AgriEdge Or-Mange Ltd</description>
+    <isVisible>true</isVisible>
+    <logo>standard:account</logo>
+    <defaultLandingTab>AgriEdge_Order__c</defaultLandingTab>
+    <tabs>
+        <tab>standard-Account</tab>
+        <tab>standard-Contact</tab>
+        <tab>AgriEdge_Order__c</tab>
+        <tab>AgriEdge_OrderItem__c</tab>
+        <tab>AgriEdge_Inventory__c</tab>
+        <tab>AgriEdge_Shipment__c</tab>
+    </tabs>
+    <utilityBar></utilityBar>
+    <uiType>Lightning</uiType>
+</CustomApplication>
