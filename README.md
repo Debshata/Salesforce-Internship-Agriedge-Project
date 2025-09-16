@@ -5,12 +5,6 @@
 
 ---
 
-## 🔗 Links
-- 🔴 **Live Demo**: [https://your-demo-link.com](https://your-demo-link.com) *(Update with actual demo link)*
-- 🧠 **GitHub Repo**: [https://github.com/Debshata/Salesforce-Internship-Agriedge-Project](https://github.com/Debshata/Salesforce-Internship-Agriedge-Project)
-
----
-
 ## 🧠 Overview
 AgriEdge Or-Mange Ltd, a leading company in the agriculture and food production sector, aims to modernize its **Order Management System (OMS)** using **Salesforce**. This strategic transformation focuses on automating operations, improving inventory visibility, and delivering seamless customer service.
 
